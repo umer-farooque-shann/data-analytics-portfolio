@@ -1,6 +1,8 @@
-Data Analytics Portfolio
+Hi I'm Umer,
 
-Welcome to my Data Analytics learning journey.
+I'm currently transitioning into Data Analytics and docummenting my leaning through real projects.
+
+Welcome to my Data Analytics journey.
 
 Tools I am learning:
 - Excel
@@ -22,7 +24,6 @@ Projects
 2. SQL Customer Analysis (Coming Soon)
 3. Python Data Exploration (Coming Soon)
 4. Power BI Dashboard (Coming Soon)
-
 
 
 About Me
